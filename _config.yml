@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heikal Hikmah / blog"
+title                    : "M Heikal Hikmah / blog"
 title_separator          : "-"
 name                     : &name "Muhammad Heikal Hikmah"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Muhammad Heikal Hikmah"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
